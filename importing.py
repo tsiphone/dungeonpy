@@ -53,7 +53,7 @@ while True:
     if destiny == "#":
         print("There is a wall in your path, cannot pass")
         continue
-    if destiny == "@":
+    if destiny == "$":
         points += 1
         print("Treasure!!!")
 
