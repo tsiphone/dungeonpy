@@ -1,4 +1,4 @@
-# DungeonPy 🏰
+# Dungeon-Crawler-Py 🏰
 
 A lightweight Python prototype exploring procedural dungeon layout generation, spatial geometry, and coordinate line rendering.
 
